@@ -40,9 +40,9 @@
   </distributionManagement>
 
   <scm>
-	  <connection>scm:git:git@github.com:sauthieg/ipojo-toolkit.git</connection>
-	  <url>scm:git:git@github.com:sauthieg/ipojo-toolkit.git</url>
-	  <developerConnection>scm:git:git@github.com:sauthieg/ipojo-toolkit.git</developerConnection>
+	  <connection>scm:git:git@github.com:sauthieg/ipojo-toolkit-parent.git</connection>
+	  <url>scm:git:git@github.com:sauthieg/ipojo-toolkit-parent.git</url>
+	  <developerConnection>scm:git:git@github.com:sauthieg/ipojo-toolkit-parent.git</developerConnection>
   </scm>
 
 </project>
