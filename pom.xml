@@ -5,7 +5,7 @@
   <groupId>org.ow2.ipojo</groupId>
   <artifactId>ipojo-toolkit-parent</artifactId>
   <name>iPOJO Toolkit Parent</name>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <build>
